@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+https://www.linkedin.com/in/bidisha-banerjee-pcc-mesc-68863017/
 
-### More Information
+Coming soon: My Vision and Values 2023
 
-A place to include any other types of information that you'd like to include about yourself.
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[bidisha at gmail.com]
